@@ -17,12 +17,5 @@ int main()
 		cout << setw(5) << b[i][i] << endl;
 	}
 
-	int min = b[0][0];
-	for (int i = 0; i < st; i++)
-		for (int i = 0; i < r; i++)
-			if (b[i][i] < min) min = b[i][i];
-
-	cout << min;
-
 
 }
