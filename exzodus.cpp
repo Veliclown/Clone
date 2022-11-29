@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+	cout << "Hi hi" << endl;
+	
 	const int r = 4;
 	const int st = 4;
 
